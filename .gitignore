@@ -9,6 +9,4 @@ config.py
 #ignore
 test.py
 
-#ipynb
-stock_chat.ipynb
-chat.ipynb
+
