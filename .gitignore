@@ -3,7 +3,6 @@ stock
 #ignore pycache
 __pycache__
 
-
 #ignore
 test.py
 
